@@ -70,7 +70,7 @@
       <key
             commandId="cmd.commands.ip1"
             contextId="org.eclipse.ui.contexts.window"
-            sequence="M1+D"
+            sequence="M1+B"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration">
       </key>
       <key
